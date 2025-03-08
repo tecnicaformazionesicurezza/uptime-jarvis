@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Jarvis Uptime
   introTitle: "Uptime status for Jarvis"
-  introMessage: [jarvis.gtsu.org](https://jarvis.gtsu.org/)
+  introMessage: "[jarvis.gtsu.org](https://jarvis.gtsu.org/)"
   navbar:
     - title: Status
       href: /
