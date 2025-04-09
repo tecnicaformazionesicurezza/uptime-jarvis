@@ -6,15 +6,15 @@
     "slug": "jarvis",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.28%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 536,
-    "timeDay": 617,
-    "timeWeek": 549,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "time": 538,
+    "timeDay": 588,
+    "timeWeek": 563,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2025-04-07": 39
     }
