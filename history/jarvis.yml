@@ -1,7 +1,7 @@
 url: https://jarvis.gtsu.org
-status: up
-code: 200
-responseTime: 504
-lastUpdated: 2025-10-26T23:12:46.689Z
+status: down
+code: 503
+responseTime: 3447
+lastUpdated: 2025-10-27T18:54:39.733Z
 startTime: 2025-03-08T13:56:47.212Z
 generator: Upptime <https://github.com/upptime/upptime>
